@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Weather-sdk
+server:
+  port: 8085
+weather:
+  api:
+    key:
+  mode: 'POLLING'
